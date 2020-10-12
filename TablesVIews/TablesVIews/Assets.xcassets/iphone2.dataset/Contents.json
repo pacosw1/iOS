@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "iphoneXX.cms",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
